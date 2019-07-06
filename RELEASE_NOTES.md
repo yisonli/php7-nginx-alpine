@@ -1,3 +1,8 @@
+## 1.3
+- 新增php7-xmlwriter扩展，写excel需要
+- 增加zip模块, 使用laravel-excel需要
+- 增加php7-pcntl扩展
+
 ## 1.0
 - 增加laravel框架必要的一些扩展，现已测试正常
 - 调整php.ini文件关于opcache.so重复加载的问题
